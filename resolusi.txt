@@ -2,5 +2,5 @@ CSRIO resolusi
 - memahami konsep python
 - mengelola sebuah website
 - memahami konsep data-science
-- membuat sebuah buku
 - kolaborasi dengan lebih banyak expert
+- membuat konten video tutorial
