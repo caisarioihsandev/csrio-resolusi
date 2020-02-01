@@ -1,0 +1,4 @@
+CSRIO resolusi
+- memahami konsep python
+- mengelola sebuah website
+- memahami konsep data-science
