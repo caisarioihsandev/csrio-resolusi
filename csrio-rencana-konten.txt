@@ -5,8 +5,9 @@ RENCANA KONTEN CSRIO
   * data-science
   * framework:
     > Django
-    > Any
     > Flask
 
 - Codeigniter
   * Comp Profile
+
+- Fundamental Data Structure
