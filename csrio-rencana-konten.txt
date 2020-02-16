@@ -9,5 +9,6 @@ RENCANA KONTEN CSRIO
 
 - Codeigniter
   * Comp Profile
+  * Online Shop
 
 - Fundamental Data Structure
