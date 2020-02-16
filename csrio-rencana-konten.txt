@@ -1,0 +1,9 @@
+RENCANA KONTEN CSRIO
+
+- Python
+  * analisis numerik
+  * data-science
+  * framework:
+    > Django
+
+- Codeigniter
