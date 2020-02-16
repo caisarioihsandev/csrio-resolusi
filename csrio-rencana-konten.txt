@@ -1,6 +1,8 @@
 RENCANA KONTEN CSRIO
 
 - Python
+  * analisis numerik
+  * framework
 - Data-Science
 - Django
 - Codeigniter
